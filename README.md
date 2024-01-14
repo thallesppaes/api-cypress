@@ -39,18 +39,18 @@ npm test
 
 Isso iniciará o Cypress e executará os testes automaticamente.
 ```
-Estrutura do Projeto
+### Estrutura do Projeto
 cypress/integration: Contém os arquivos de teste Cypress.</br>
 cypress/support: Contém arquivos de suporte, como comandos personalizados e configurações globais.</br>
 
-Customizações
+### Customizações
 Sinta-se à vontade para personalizar os testes de acordo com suas necessidades. Adicione novos casos de teste, comandos personalizados ou ajuste as configurações conforme necessário.
 
-Relatórios
+### Relatórios
 Os relatórios de testes são gerados automaticamente e estão disponíveis na pasta cypress/reports. Abra o arquivo HTML no navegador para visualizar os resultados.
 
-Contribuindo
+### Contribuindo
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) e enviar pull requests para melhorar este projeto.
 
-Licença
+### Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
