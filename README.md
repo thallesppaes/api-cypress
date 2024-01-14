@@ -38,7 +38,7 @@ Para executar os testes, utilize o seguinte comando:
 npm test
 
 Isso iniciará o Cypress e executará os testes automaticamente.
-
+```
 Estrutura do Projeto
 cypress/integration: Contém os arquivos de teste Cypress.</br>
 cypress/support: Contém arquivos de suporte, como comandos personalizados e configurações globais.</br>
