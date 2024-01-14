@@ -43,7 +43,7 @@ npm test
 
 Isso iniciará o Cypress e executará os testes automaticamente.
 
-### Estrutura do Projeto
+<h3> Estrutura do Projeto</h3>
 cypress/integration: Contém os arquivos de teste Cypress.</br>
 cypress/support: Contém arquivos de suporte, como comandos personalizados e configurações globais.</br>
 
